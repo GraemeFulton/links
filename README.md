@@ -1,4 +1,3 @@
-# links
 https://blog.prototypr.io/negotiate-dont-argue-c36c32dbf0c6
 https://blog.prototypr.io/why-we-design-attractive-things-a4e940b6dd94
 https://blog.prototypr.io/checklist-for-handing-off-designs-to-product-team-3a05d025be0e
